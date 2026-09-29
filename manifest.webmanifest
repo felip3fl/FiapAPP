@@ -1,6 +1,6 @@
 {
-  "name": "FlashCards de Estudo",
-  "short_name": "FlashCards",
+  "name": "FIAP Web",
+  "short_name": "FIAP Web",
   "display": "standalone",
   "start_url": "./",
   "theme_color": "#1a1815",
