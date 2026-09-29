@@ -3,7 +3,7 @@
   "short_name": "FIAP Web",
   "display": "standalone",
   "start_url": "./",
-  "theme_color": "#1a1815",
+  "theme_color": "#101010",
   "background_color": "#d4d4d4",
   "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
 }
